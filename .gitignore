@@ -1,4 +1,4 @@
-# Archivos de entorno y secretos
+# Archivos de entorno
 .env
 
 # Base de datos local
@@ -12,9 +12,8 @@ __pycache__/
 *.pyo
 .Python
 
-# Entornos virtuales (si usaste alguno localmente)
+
 venv/
 env/
 
-# Archivos del sistema Mac
 .DS_Store
