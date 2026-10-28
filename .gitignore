@@ -1,0 +1,19 @@
+# Archivos de entorno
+.env
+
+# Base de datos local
+*.db
+*.sqlite
+gestibuap.db
+
+# Archivos basura de Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+
+venv/
+env/
+
+.DS_Store
