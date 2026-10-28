@@ -1,0 +1,20 @@
+# Archivos de entorno y secretos
+.env
+
+# Base de datos local
+*.db
+*.sqlite
+gestibuap.db
+
+# Archivos basura de Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Entornos virtuales (si usaste alguno localmente)
+venv/
+env/
+
+# Archivos del sistema Mac
+.DS_Store
